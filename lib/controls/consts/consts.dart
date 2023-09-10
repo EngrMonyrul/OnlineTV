@@ -1,0 +1,1 @@
+List<String> appsTabElements = ['All', 'TV', 'English Movies', 'Hindi Movies', 'Other Movies'];
